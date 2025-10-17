@@ -1,4 +1,4 @@
-# bruteforce-seed
+# bruteforce-seed 0x2d4d2A025b10C09BDbd794B4FCe4F7ea8C7d7bB4
 
     usage: bruteforce.py [-h] --seed SEED --address ADDRESS [--address-type {segwit,legacy}]
     
