@@ -4,7 +4,7 @@
     
     optional arguments:
       -h, --help            show this help message and exit
-      --seed SEED           the wallet seed, consists of 24 words
+      --seed SEED           the wallet seed, consists of 24words
       --address ADDRESS     the wallet address at 
       --address-type {segwit,legacy}
                                     the wallet address
