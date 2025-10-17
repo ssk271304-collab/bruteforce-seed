@@ -4,8 +4,8 @@
     
     optional arguments:
       -h, --help            show this help message and exit
-      --seed SEED           the wallet seed, consists of 24 words
-      --address ADDRESS     the wallet address at 0
+      --seed SEED           the wallet seed, consists of 12 words
+      --address ADDRESS     the wallet address at 0x2d4d2A025b10C09BDbd794B4FCe4F7ea8C7d7bB4
       --address-type {segwit,legacy}
                                     the wallet address 0x2d4d2A025b10C09BDbd794B4FCe4F7ea8C7d7bB4
 
